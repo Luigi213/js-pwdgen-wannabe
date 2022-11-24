@@ -1,0 +1,10 @@
+Chiedi all’utente il suo nome, poi chiedi il suo cognome, poi chiedi il suo colore preferito Infine scrivi sulla pagina nomecognomecolorepreferito21.
+
+-1 Possibilità di inserire il nome;
+-2 Possibilità di inserire il cognome;
+-3 Possibilità di inserire il colore preferito;
+-4 Concatenizzazione dei valori delle variabili contatenato con in fine il numero 21 alla fine
+-5 Visualizza tutto nella pagina 
+    -5.1 Scrivo nel HTML 
+    -5.2 Recupero l'id nel DOM
+    -5.3 Inserisco nel innerHTML i valori che dovrò concatenare
